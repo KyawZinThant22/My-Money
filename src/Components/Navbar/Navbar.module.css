@@ -1,0 +1,29 @@
+.navbar{
+    width: 100%;
+    padding: 10px 20px;
+    background-color: aliceblue;
+    box-sizing: border-box;
+}
+
+.navbar ul {
+    display: flex;
+    margin: 0 auto;
+    width: 960px;
+    align-items: center;
+}
+
+.title {
+    margin-right: auto;
+    font-size: bold;
+    letter-spacing: 1px;
+    font-size: 1.2rem;
+}
+
+.navbar button , .navbar a {
+    margin-left: 16px;
+}
+
+.navbar a {
+    color: #333;
+    text-decoration: none;
+}
